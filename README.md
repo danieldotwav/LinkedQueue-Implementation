@@ -25,32 +25,32 @@ Ensure you have the following installed on your local machine:
    git clone https://github.com/danieldotwav/LinkedQueue-Implementation.git
    Navigate to the project directory:
 
-  ```sh
-  Copy code
-  cd LinkedQueue-Implementation
-  Compile the project:
-  ```
+   ```sh
+   Copy code
+   cd LinkedQueue-Implementation
+   Compile the project:
+   ```
   
-  ```sh
-  Copy code
-  g++ -o output_name main.cpp
-  Run the project:
-  ```
+   ```sh
+   Copy code
+   g++ -o output_name main.cpp
+   Run the project:
+   ```
   
-  ```sh
-  Copy code
-  ./output_name
-  ```
+   ```sh
+   Copy code
+   ./output_name
+   ```
 
 ### Usage
 Brief example of how to use your implementation.
-```
-cpp
-Copy code
-LinkedQueue queue;
-queue.enqueue(5);
-queue.enqueue(10);
-queue.dequeue();
-// etc.
-```
+   ```
+   cpp
+   Copy code
+   LinkedQueue queue;
+   queue.enqueue(5);
+   queue.enqueue(10);
+   queue.dequeue();
+   // etc.
+   ```
 
