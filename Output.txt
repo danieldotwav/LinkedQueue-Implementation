@@ -1,0 +1,39 @@
+Input                                   Reverse                       Palindrome
+
+YES!!! you can dance!                   ecnadnacuoysey                No        
+Taco cat                                tacocat                       Yes       
+Never odd or even                       neveroddoreven                Yes       
+Madam, I'm Adam                         madaimadam                    No        
+Mr. Owl ate my metal worm.              mrowlatemymetalworm           Yes       
+Was it a car or a cat I saw?            wasitacaroracatisaw           Yes       
+Murder for a jar of red rum.            murderforajarofredrum         Yes       
+Do geese see God?                       dogeeseseegod                 Yes       
+Evil olive                              evilolive                     Yes       
+Amore, Roma                             amoreroma                     Yes       
+                                                                      No        
+   abc                                  cba                           No        
+A man, a plan, a canal: Panama          amanaplanacanalpanama         Yes       
+My gym                                  mygym                         Yes       
+No lemon, no melon                      nolemonnomelon                Yes       
+Top spot                                topspot                       Yes       
+Sit on a potato pan, Otis!              sitonapotatopanotis           Yes       
+Did Hannah See bees? Hanna did.         didannahseebeeshannahdid      No        
+You, banana boy!                        yobananabuoy                  No        
+Borrow, or rob?                         borroworrob                   Yes       
+Eva, can I see bees in a cave?          evacaniseebeesinacave         Yes       
+Poor Dan is in a droop.                 poordanisinadroop             Yes       
+Oozy rat in a sanitary zoo.             oozyratinasanitaryzoo         Yes       
+Step on no pets.                        steponnopets                  Yes       
+Able was I ere I saw Elba               ablewasiereisawelba           Yes       
+We panic in a pew.                      wepanicinapew                 Yes       
+x                                       x                             Yes       
+Won't lovers revolt now?                wontloversrevolnow            No        
+Don't nod                               donnod                        Yes       
+Ma has a ham.                           mahasaham                     Yes       
+Was it Eliot's toilet I saw?            wasiteliottoiletisaw          Yes       
+Egad! No bondage?                       egadnobondage                 Yes       
+Drab as a fool, aloof as a bard.        drabasafoolaloofasabard       Yes       
+Won't lovers revolt now?                wontloversrevolnow            No        
+
+Total Expressions Processed: 34
+
